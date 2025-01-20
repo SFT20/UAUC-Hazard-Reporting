@@ -28,3 +28,23 @@ Generates reports for audits and safety reviews.
 
 ## Solution Justification
 Implementing an Unsafe Act/Unsafe Condition application, organizations can significantly enhance workplace safety, ensure compliance, reduce costs, and foster a positive safety culture.
+
+## Solution Taxonomy
+Below are the listed order through which this solution was developed, after which each element of the deployment will be documented accordingly.
+### Business requirement evaluation.
+Business requirement document evaluation.
+
+* Problem review.
+* Use case discovery.
+* Design conceptualization.
+* FitGap Analysis.
+
+## Solution Design
+* Data Modelling 
+* Security Modelling
+* ALM
+## Design Approach
+* User Interface design 
+* The user interface was then transformed using Canvas Apps design object features
+* The application functionalities were developed using Power Fx
+
