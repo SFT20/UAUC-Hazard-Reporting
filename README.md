@@ -32,7 +32,6 @@ Implementing an Unsafe Act/Unsafe Condition application, organizations can signi
 ## Solution Taxonomy
 Below are the listed order through which this solution was developed, after which each element of the deployment will be documented accordingly.
 ### Business requirement evaluation.
-Business requirement document evaluation.
 
 * Problem review.
 * Use case discovery.
