@@ -26,4 +26,5 @@ Analytics dashboard to identify SBU, Location, and status.
 Ensures compliance with safety regulations and standards.
 Generates reports for audits and safety reviews.
 
-
+## Solution Justification
+Implementing an Unsafe Act/Unsafe Condition application, organizations can significantly enhance workplace safety, ensure compliance, reduce costs, and foster a positive safety culture.
