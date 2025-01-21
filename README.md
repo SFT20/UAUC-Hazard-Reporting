@@ -47,3 +47,7 @@ Below are the listed order through which this solution was developed, after whic
 * The user interface was then transformed using Canvas Apps design object features
 * The application functionalities were developed using Power Fx
 
+### Design View
+       Home Screen           
+![CanvasApp-Home](https://github.com/user-attachments/assets/7866d26d-4cec-4c39-aa61-91769b825b47)
+
