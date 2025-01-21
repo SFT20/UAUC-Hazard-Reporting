@@ -11,8 +11,8 @@
 The deployment will follow the standard ALM process of pushing the solution from Dev - UAT - Production instance.
 ## Solution Strategy
 ### Nomenclature
-**Publisher:** fred
-**Prefix:** fred
+* **Publisher:** fred
+* **Prefix:** fred
 ![Solution-name](https://github.com/user-attachments/assets/8897cd19-96f2-4549-afe9-19ca6e70e378)
 
 ### Solution Objects
