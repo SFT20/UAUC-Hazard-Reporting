@@ -16,10 +16,12 @@ The deployment will follow the standard ALM process of pushing the solution from
 ![Solution-name](https://github.com/user-attachments/assets/8897cd19-96f2-4549-afe9-19ca6e70e378)
 
 ### Solution Objects
-This Solution contain six objects
+This Solution contain eight objects
 
-* One Model Driven Apps
 * One Canvas Apps
 * One Power Automate Cloud Flow
-* Three Dataverse Tables
-  
+* Two Environment variables (Containing SharePoint Site Url & List)
+* One Power BI DashBoard
+* Three connections References
+
+![Solution-Object](https://github.com/user-attachments/assets/ad10542b-5f9a-47da-94bc-2cbdbeaf9f88)
