@@ -63,9 +63,27 @@ Below are the listed order through which this solution was developed, after whic
 
  ![CanvasGallery](https://github.com/user-attachments/assets/dd19141a-b9b0-4c6d-be3f-0b770769798d)
 
-       DashBoard Screen          
+       Success Screen          
 
+![SuccessScreen](https://github.com/user-attachments/assets/088350cb-5c35-455f-805e-4609188cbbb8)
+
+
+       DashBoard Screen          
 
 ![UAUC DashBoard](https://github.com/user-attachments/assets/8d17d489-f6fb-4f59-bdf1-3aa0db92d96c)
 
- 
+        Power Automate Cloud Flow      
+
+![UAUC Flow](https://github.com/user-attachments/assets/0caa0cef-a229-4f23-a076-a801b24a4468)
+
+
+## Flow Chart
+
+### Canvas App Flow Chart
+
+![Canvas App Chart](https://github.com/user-attachments/assets/253a227f-444f-4e7e-9d29-86c3f2e4af1c)
+
+### Work Flow Chart
+
+(![PA - Work flow](https://github.com/user-attachments/assets/0123c25f-a3c5-418d-ba60-e98f6a4ad4dc)
+)
