@@ -48,8 +48,24 @@ Below are the listed order through which this solution was developed, after whic
 * The application functionalities were developed using Power Fx
 
 ### Design View
+
        Home Screen           
 ![CanvasApp-Home](https://github.com/user-attachments/assets/7866d26d-4cec-4c39-aa61-91769b825b47)
-
+       
+       UAUC Form Screen  
+       
 ![canvas-form](https://github.com/user-attachments/assets/ed72039b-2407-451a-9c3f-9309ee8adeda)
 
+        UAUC Edit Screen  
+![Canvas-Editformform](https://github.com/user-attachments/assets/e89712bf-8960-4d6b-afa4-64137f1bdf01)
+
+       Gallery Screen          
+
+ ![CanvasGallery](https://github.com/user-attachments/assets/dd19141a-b9b0-4c6d-be3f-0b770769798d)
+
+       DashBoard Screen          
+
+
+![UAUC DashBoard](https://github.com/user-attachments/assets/8d17d489-f6fb-4f59-bdf1-3aa0db92d96c)
+
+ 
