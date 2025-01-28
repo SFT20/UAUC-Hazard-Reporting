@@ -70,7 +70,7 @@ Application User or Action party navigates from the Home Screen (My Submitted UA
 ![Canvas-Editformform](https://github.com/user-attachments/assets/e89712bf-8960-4d6b-afa4-64137f1bdf01)
 
        **Gallery Screen**         
---Restricted-- 
+##### --Restricted-- 
 HSE Team members only can navigate from the Home Screen (HSE Team) to the "All UAUC Hazard Report" Screen to view and also navigete "UAUC Edit Screen".
 
  ![CanvasGallery](https://github.com/user-attachments/assets/dd19141a-b9b0-4c6d-be3f-0b770769798d)
@@ -110,7 +110,7 @@ This table shows the Sharepoint columns for the UAUC solution
         
        Power Automate Cloud Flow      
 
-
+The image below shows the function written to check if the conditon "Close-out Status" was met after 24 hours.
 The function used is called the Power Fx, and this was used in various part of the application to achieve the needed behaviours.
 
 ![UAUC Flow](https://github.com/user-attachments/assets/f4074774-9500-457c-b01e-f048865a4a0d)
@@ -126,8 +126,8 @@ This chart shows the user journey from process initiation till finish.
 
 ### Power Automate Work Flow Chart
 This flow charts shows the process model and journey of the implemented automation.
-The image below shows the function written to check if the conditon "Close-out Status" was met after 24 hours.
 
-![UAUC Flow](https://github.com/user-attachments/assets/ffd9fad3-3d81-4375-a7ba-54aee79585c0)
+![PA - Work flow](https://github.com/user-attachments/assets/67099e5f-2335-4195-8acd-e6a543cbbc96)
+
 
 
