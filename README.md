@@ -113,7 +113,8 @@ This table shows the Sharepoint columns for the UAUC solution
 
 The function used is called the Power Fx, and this was used in various part of the application to achieve the needed behaviours.
 
-![UAUC Flow](https://github.com/user-attachments/assets/0caa0cef-a229-4f23-a076-a801b24a4468)
+![UAUC Flow](https://github.com/user-attachments/assets/f4074774-9500-457c-b01e-f048865a4a0d)
+
 
 
 ## Solution Flow Chart
