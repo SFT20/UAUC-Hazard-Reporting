@@ -125,6 +125,8 @@ This chart shows the user journey from process initiation till finish.
 
 ### Power Automate Work Flow Chart
 This flow charts shows the process model and journey of the implemented automation.
+The image below shows the function written to check if the conditon "Close-out Status" was met after 24 hours.
 
-![PA - Work flow](https://github.com/user-attachments/assets/0123c25f-a3c5-418d-ba60-e98f6a4ad4dc)
+![UAUC Flow](https://github.com/user-attachments/assets/ffd9fad3-3d81-4375-a7ba-54aee79585c0)
+
 
