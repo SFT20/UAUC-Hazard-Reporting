@@ -54,11 +54,13 @@ The function used is called the Power Fx, and this was used in various part of t
        Home Screen           
 
 Application User access the platform and by engaging with the "New UA/UC" button can go to the next screen to report hazard observed.
+
 ![CanvasApp-Home](https://github.com/user-attachments/assets/7866d26d-4cec-4c39-aa61-91769b825b47)
        
        UAUC Form Screen  
        
 Application User navigates from the Home Screen to the UAUC hazard reporting form screen and the user is able to submit Observation.
+
 ![canvas-form](https://github.com/user-attachments/assets/ed72039b-2407-451a-9c3f-9309ee8adeda)
 
         UAUC Edit Screen  
@@ -93,8 +95,6 @@ Application User navigates from the Home Screen to the UAUC hazard reporting for
 | Date Of Observation  | Date  |   
 | Evidence Attachment  |  Image |   
 | Evidence of Closure  |  Image |   
-
-
         
         
         Power Automate Cloud Flow      
@@ -111,5 +111,6 @@ This chart shows the user journey from process initiation till finish.
 
 ### Power Automate Work Flow Chart
 This flow charts shows the process model and journey of the implemented automation.
+
 ![PA - Work flow](https://github.com/user-attachments/assets/0123c25f-a3c5-418d-ba60-e98f6a4ad4dc)
 
