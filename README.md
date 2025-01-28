@@ -48,15 +48,21 @@ Below are the listed order through which this solution was developed, after whic
 * The application functionalities were developed using Power Fx
 
 ### Design View
+### Canvas Apps Screen
+The function used is called the Power Fx, and this was used in various part of the application to achieve the needed behaviours.
 
        Home Screen           
+
+Application User access the platform and by engaging with the "New UA/UC" button can go to the next screen to report hazard observed.
 ![CanvasApp-Home](https://github.com/user-attachments/assets/7866d26d-4cec-4c39-aa61-91769b825b47)
        
        UAUC Form Screen  
        
+Application User navigates from the Home Screen to the UAUC hazard reporting form screen and the user is able to submit Observation.
 ![canvas-form](https://github.com/user-attachments/assets/ed72039b-2407-451a-9c3f-9309ee8adeda)
 
         UAUC Edit Screen  
+        
 ![Canvas-Editformform](https://github.com/user-attachments/assets/e89712bf-8960-4d6b-afa4-64137f1bdf01)
 
        Gallery Screen          
@@ -72,18 +78,38 @@ Below are the listed order through which this solution was developed, after whic
 
 ![UAUC DashBoard](https://github.com/user-attachments/assets/8d17d489-f6fb-4f59-bdf1-3aa0db92d96c)
 
+### Data Source  
+
+| Columns  |  Type |   
+|---|---|
+| Unsafe Act / Unsafe Condition (UA/UC) Observed  |  Single line of text |   
+| Category of UA/UC Reported  | Multi-Choice  |   
+|  Immediate Corrective Action Taken/Further Action Required | Single line of text  |   
+|  Action Party | Person or Group  |  
+|  RiskRating |  Choice |   
+|  Close-Out Status | Choice |  
+|  Location | Choice |   
+| Observed By  | Single line of text  |  
+| Date Of Observation  | Date  |   
+| Evidence Attachment  |  Image |   
+| Evidence of Closure  |  Image |   
+
+
+        
+        
         Power Automate Cloud Flow      
 
 ![UAUC Flow](https://github.com/user-attachments/assets/0caa0cef-a229-4f23-a076-a801b24a4468)
 
 
-## Flow Chart
+## Solution Flow Chart
 
 ### Canvas App Flow Chart
+This chart shows the user journey from process initiation till finish.
 
 ![Canvas App Chart](https://github.com/user-attachments/assets/253a227f-444f-4e7e-9d29-86c3f2e4af1c)
 
-### Work Flow Chart
+### Power Automate Work Flow Chart
+This flow charts shows the process model and journey of the implemented automation.
+![PA - Work flow](https://github.com/user-attachments/assets/0123c25f-a3c5-418d-ba60-e98f6a4ad4dc)
 
-(![PA - Work flow](https://github.com/user-attachments/assets/0123c25f-a3c5-418d-ba60-e98f6a4ad4dc)
-)
