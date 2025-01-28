@@ -85,7 +85,7 @@ Application user is been redirected to success screen if the UAUC form submissio
        **DashBoard Screen**          
 
 
-HSE Team members only can navigate from the "All UAUC Hazard Report" Screen to the  to view UAUC Hazard Report DashBoard on real-time.
+HSE Team members only can navigate from the "All UAUC Hazard Report" Screen to the  to view UAUC Hazard Report DashBoard analytics.
 
 ![UAUC DashBoard](https://github.com/user-attachments/assets/8d17d489-f6fb-4f59-bdf1-3aa0db92d96c)
 
