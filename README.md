@@ -51,32 +51,41 @@ Below are the listed order through which this solution was developed, after whic
 ### Canvas Apps Screen
 The function used is called the Power Fx, and this was used in various part of the application to achieve the needed behaviours.
 
-       Home Screen           
+       **Home Screen**           
 
 Application User access the platform and by engaging with the "New UA/UC" button can go to the next screen to report hazard observed.
 
 ![CanvasApp-Home](https://github.com/user-attachments/assets/7866d26d-4cec-4c39-aa61-91769b825b47)
        
-       UAUC Form Screen  
+       **UAUC Form Screen**  
        
 Application User navigates from the Home Screen to the UAUC hazard reporting form screen and the user is able to submit Observation.
 
 ![canvas-form](https://github.com/user-attachments/assets/ed72039b-2407-451a-9c3f-9309ee8adeda)
 
-        UAUC Edit Screen  
+        **UAUC Edit Screen**  
         
+Application User or Action party navigates from the Home Screen (My Submitted UAUC) to the Submitted Hazard form screen and the user is able to edit the "Closed Out Status", optionally attach picture and updates Observation.
+
 ![Canvas-Editformform](https://github.com/user-attachments/assets/e89712bf-8960-4d6b-afa4-64137f1bdf01)
 
-       Gallery Screen          
+       **Gallery Screen**         
+--Restricted-- 
+HSE Team members only can navigate from the Home Screen (HSE Team) to the "All UAUC Hazard Report" Screen to view and also navigete "UAUC Edit Screen".
 
  ![CanvasGallery](https://github.com/user-attachments/assets/dd19141a-b9b0-4c6d-be3f-0b770769798d)
 
-       Success Screen          
+       **Success Screen**          
+
+Application user is been redirected to success screen if the UAUC form submission was successful.
 
 ![SuccessScreen](https://github.com/user-attachments/assets/088350cb-5c35-455f-805e-4609188cbbb8)
 
 
-       DashBoard Screen          
+       **DashBoard Screen**          
+
+
+HSE Team members only can navigate from the "All UAUC Hazard Report" Screen to the  to view UAUC Hazard Report DashBoard on real-time.
 
 ![UAUC DashBoard](https://github.com/user-attachments/assets/8d17d489-f6fb-4f59-bdf1-3aa0db92d96c)
 
