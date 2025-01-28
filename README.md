@@ -91,6 +91,8 @@ HSE Team members only can navigate from the "All UAUC Hazard Report" Screen to t
 
 ### Data Source  
 
+This table shows the Sharepoint columns for the UAUC solution 
+
 | Columns  |  Type |   
 |---|---|
 | Unsafe Act / Unsafe Condition (UA/UC) Observed  |  Single line of text |   
@@ -106,7 +108,10 @@ HSE Team members only can navigate from the "All UAUC Hazard Report" Screen to t
 | Evidence of Closure  |  Image |   
         
         
-        Power Automate Cloud Flow      
+       Power Automate Cloud Flow      
+
+
+The function used is called the Power Fx, and this was used in various part of the application to achieve the needed behaviours.
 
 ![UAUC Flow](https://github.com/user-attachments/assets/0caa0cef-a229-4f23-a076-a801b24a4468)
 
